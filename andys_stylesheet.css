@@ -1,0 +1,34 @@
+body {
+    background-image: url("http://pixelartmaker.com/art/becdd8955dc57eb.png");
+    color: black;
+    text-align: center;
+    font-family: "Major Mono Display", "Times New Roman", "serif";
+    color: white;
+    width: 700px;
+    padding: 50px
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Inconsolata", "Times New Roman", "serif";
+    font-size: 50px;
+    background-image: url("https://www.desktopbackground.org/download/o/2015/05/26/954385_pixel-rain-wallpapers-by-supajackle-on-deviantart_1440x900_h.png");
+    background-size: 1000px 60px;
+}
+
+span {
+    background-image: url("https://www.desktopbackground.org/download/o/2015/05/26/954385_pixel-rain-wallpapers-by-supajackle-on-deviantart_1440x900_h.png");
+}
+
+a {
+    color: white;
+}
